@@ -1,0 +1,9 @@
+{
+  "name": "review",
+  "version": "0.0.0",
+  "description": "Review",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
